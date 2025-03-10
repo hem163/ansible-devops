@@ -1,0 +1,9 @@
+ VCS - Version control system is an Mechanism which provides an unique identification for managing the data inside in the files via commit_ids which is an hexa decimal code - xbccnqwn9r13nin22e021ee22nffn in the form of 125/256 bytes using an algorithm called as SHA(secure hashing algorithm).
+3. release: Release branch is used for maintaining the release/version/customer wise code for software/product/application features.
+            We have multiple release branches.
+
+eg: release, release-1.0, release-2.0
+    release-stable-version, flipkart-release-Q1-2025, flipkart-release-Q4-2024-christmas etc
+
+4. feature: Feature branch is used for building individual features,
+            we have multiple feature branches.
